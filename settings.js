@@ -3,33 +3,33 @@ const chalk = require("chalk")
 
 global.available = true
 global.autoReadGc = true
-global.autoReadAll = false
+global.autoReadAll = true
 global.antitags = true
 
 //aumto functioner
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
-//global.autoRecord = true //auto recording (true to on, false to off)
+//global.autoRecord = false //auto recording (true to on, false to off)
 
-global.Owner = ['918348225320'] //ur number 
-global.OwnerNumber = ['918348225320']
-global.ownertag = ['918348225320']
-global.BotName = "ZenitsuBot-V2" //ur bot name 
-global.packname = "ZenitsuBot" //ur sticker pack name
-global.author = "🦄Dream Guy Deepak" 
-global.OwnerName = "🦄Dream Guy Deepak" //ur name
-global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
-global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur group link 
+global.Owner = ['60109102984'] //ur number 
+global.OwnerNumber = ['60109102984']
+global.ownertag = ['60109102984']
+global.BotName = "Kao Akebi-Bot愛" //ur bot name 
+global.packname = "Kao Akebi-Bot愛" //ur sticker pack name
+global.author = "Khairil春" 
+global.OwnerName = "Khairil春" //ur name
+global.BotSourceCode = "Cari Sendiri :v" //ur website link
+global.SupportGroupLink = "https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T" //ur group link 
 global.sessionName = "session"
 
 // Prefix //
-global.prefa = ['.'] 
+global.prefa = [''] 
 
 
-global.location = "Darjeeling, India"
-global.reactmoji = "🐕"
-global.themeemoji = "🦄"
-global.vidmenu = { url: 'https://i.ibb.co/vXnjzpr/cheemspic.jpg' }
-global.websitex = "https://youtube.com/@dreamguydeepak"
+global.location = "Sabah, Malaysia"
+global.reactmoji = "🌚"
+global.themeemoji = "🗿"
+global.vidmenu = { url: 'https://i.ibb.co/QXrzbVc/logo4.jpg' }
+global.websitex = "https://linkfly.to/Khairil"
 global.lolhuman = "Deepak"
 
 
